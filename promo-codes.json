@@ -1,0 +1,36 @@
+{
+  "products": {
+    "Blackbird": {
+      "code": "AI0AQ",
+      "description": "Blackbird gives you the private flight experience at a budget airline price."
+    },
+    "Uber": {
+      "code": "uber15us",
+      "description": "Uber Technologies Inc. is a global taxi technology company, operating in 633 cities worldwide."
+    },
+    "HotelTonight": {
+      "code": "FSPIRIDONOV",
+      "description": "Amazing last-minute deals at top-rated hotels. Book Tonight, Tomorrow or 7 Days Out."
+    },
+    "Airbnb": {
+      "code": "fspiridonov",
+      "description": "Airbnb is the best way to rent unique, local accommodations on any travel budget.",
+      "link": "https://www.airbnb.com/c/fspiridonov"
+    },
+    "Robinhood": {
+      "code": "filips2",
+      "description": "Robinhood lets you learn to invest in the stock market for free.",
+      "link": "http://share.robinhood.com/filips2"
+    },
+    "Booking": {
+      "code": "",
+      "description": "",
+      "link": "https://www.booking.com/s/27_8/c065ec84"
+    },
+    "Blind": {
+      "code": "nXNnHm7f",
+      "description": "Blind is an anonymous chat app for tech employees.",
+      "link": "https://us.teamblind.com/invite/nXNnHm7f"
+    }
+  }
+}
