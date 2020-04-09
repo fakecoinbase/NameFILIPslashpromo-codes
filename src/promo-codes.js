@@ -30,10 +30,54 @@ export const promoCodes = [
   },
   {
     name: "Instacart",
-    description: "Instacart is a sometimes-same-day grocery delivery service",
+    description: "Instacart is a grocery delivery service",
     code: "FSPIRIDONOV1B4",
     link: "https://inst.cr/t/qEp5F7hKc",
     categories: ["Food"],
+  },
+  // Finance
+  {
+    name: "Robinhood",
+    description:
+      "Robinhood lets you learn to invest in the stock market for free",
+    code: "filips2",
+    link: "http://share.robinhood.com/filips2",
+    categories: ["Finance"],
+  },
+  {
+    name: "Webull",
+    description: "Webull offers commission-free online stock trading",
+    code: null,
+    link: "https://act.webull.com/i/qcSfuIF1JqAI/8mw/",
+    categories: ["Finance"],
+  },
+  {
+    name: "Coinbase",
+    description: "Coinbase is a place to buy and sell cryptocurrency",
+    code: null,
+    link: "http://coinbase.com/join/spirid_9f",
+    categories: ["Finance"],
+  },
+  {
+    name: "Coinbase Earn",
+    description: "Earn crypto while learning about crypto",
+    code: null,
+    link: "https://coinbase.com/earn/xlm/invite/vd3bw81c",
+    categories: ["Finance"],
+  },
+  {
+    name: "Chase Checking",
+    description: "Open a Chase Checking accont and get a bonus",
+    code: null,
+    link: "https://accounts.chase.com/raf/share/2541951287",
+    categories: ["Finance"],
+  },
+  {
+    name: "Chase United Card",
+    description: "Open a Chase United Credit and get a bonus",
+    code: null,
+    link: "https://www.referyourchasecard.com/217a/E4SGVRDAS2",
+    categories: ["Finance"],
   },
   // Transportation
   {
@@ -105,50 +149,6 @@ export const promoCodes = [
     code: "fspiridonov",
     link: "https://www.airbnb.com/c/fspiridonov",
     categories: ["Housing"],
-  },
-  // Finance
-  {
-    name: "Robinhood",
-    description:
-      "Robinhood lets you learn to invest in the stock market for free",
-    code: "filips2",
-    link: "http://share.robinhood.com/filips2",
-    categories: ["Finance"],
-  },
-  {
-    name: "Webull",
-    description: "Webull offers commission-free online stock trading",
-    code: null,
-    link: "https://act.webull.com/i/qcSfuIF1JqAI/8mw/",
-    categories: ["Finance"],
-  },
-  {
-    name: "Coinbase",
-    description: "Coinbase is a place to buy and sell cryptocurrency",
-    code: null,
-    link: "http://coinbase.com/join/spirid_9f",
-    categories: ["Finance"],
-  },
-  {
-    name: "Coinbase Earn",
-    description: "Earn crypto while learning about crypto",
-    code: null,
-    link: "https://coinbase.com/earn/xlm/invite/vd3bw81c",
-    categories: ["Finance"],
-  },
-  {
-    name: "Chase Checking",
-    description: "Open a Chase Checking accont and get a bonus",
-    code: null,
-    link: "https://accounts.chase.com/raf/share/2541951287",
-    categories: ["Finance"],
-  },
-  {
-    name: "Chase United Card",
-    description: "Open a Chase United Credit and get a bonus",
-    code: null,
-    link: "https://www.referyourchasecard.com/217a/E4SGVRDAS2",
-    categories: ["Finance"],
   },
   // Social
   {
