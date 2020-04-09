@@ -41,7 +41,7 @@ export const promoCodes = [
   },
   {
     name: "Booking",
-    description: "",
+    description: "Booking.com is a travel search engine for lodging reservations",
     code: "",
     link: "https://www.booking.com/s/27_8/c065ec84",
     categories: ["Housing"],
@@ -71,7 +71,7 @@ export const promoCodes = [
   },
   {
     name: "Scoot",
-    description: "SF Scooter Rental",
+    description: "San Francisco scooter rental",
     code: "filips3",
     link: "https://turo.com/c/filips19",
     categories: ["Transportation"],
