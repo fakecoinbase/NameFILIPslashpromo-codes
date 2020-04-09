@@ -35,6 +35,13 @@ export const promoCodes = [
     link: "https://inst.cr/t/qEp5F7hKc",
     categories: ["Food"],
   },
+  {
+    name: "Territory",
+    description: "Healthy chef-prepared meals delivered direct to your door",
+    code: "NAMEFILIP",
+    link: "https://www.territoryfoods.com/yum/NAMEFILIP",
+    categories: ["Food"],
+  },
   // Finance
   {
     name: "Robinhood",
