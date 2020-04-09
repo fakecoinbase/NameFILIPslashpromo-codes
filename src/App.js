@@ -28,6 +28,10 @@ const cardOverrides = {
   },
 };
 
+const linkStyle = {
+  wordWrap: "break-word",
+};
+
 const CardRow = styled("div", ({ $theme }) => ({
   marginBottom: $theme.sizing.scale100,
 }));
@@ -54,7 +58,9 @@ function Item(props) {
         {item.link && (
           <CardRow>
             <Label>Link:</Label>{" "}
-            <StyledLink href={item.link}>{item.link}</StyledLink>
+            <StyledLink href={item.link} style={linkStyle}>
+              {item.link}
+            </StyledLink>
           </CardRow>
         )}
       </StyledBody>
