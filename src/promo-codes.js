@@ -1,10 +1,84 @@
 export const promoCodes = [
+  // Food
+  {
+    name: 'Uber Eats',
+    description: "On-demand prepared food delivery service",
+    code: 'eats-uber15us',
+    link: "http://ubr.to/EatsGiveGet",
+    categories: ["Food"],
+  },
+  {
+    name: 'Doordash',
+    description: "On-demand prepared food delivery service",
+    code: null,
+    link: "https://drd.sh/xif2T3/",
+    categories: ["Food"],
+  },
+  {
+    name: 'Grubhub',
+    description: "On-demand prepared food delivery service",
+    code: null,
+    link: "https://www.grubhub.com/referral/352b93b0-d30e-11e6-a70f-bf3ac7369ce6",
+    categories: ["Food"],
+  },
+  {
+    name: 'Postmates',
+    description: "On-demand prepared food delivery service",
+    code: null,
+    link: "https://postmat.es/KObh05Egx5",
+    categories: ["Food"],
+  },
+  {
+    name: "Instacart",
+    description: "Instacart is a sometimes-same-day grocery delivery service",
+    code: "FSPIRIDONOV1C6",
+    link: "https://inst.cr/t/qEp5F7hKc",
+    categories: ["Food"],
+  },
+  // Transportation
+  {
+    name: "Getaround",
+    description:
+      "Getaround is an online car sharing or peer-to-peer carsharing service",
+    code: "",
+    link: "https://www.getaround.com/invite/10210287264472979",
+    categories: ["Transportation"],
+  },
+  // {
+  //   name: "Turo",
+  //   description:
+  //     "Turo is a company that operates a peer-to-peer carsharing marketplace",
+  //   code: "filips19",
+  //   link: "https://turo.com/c/filips19",
+  //   categories: ["Transportation"],
+  // },
+  {
+    name: "Spin",
+    description: "Rent electric scooters",
+    code: "FILIPSPIRIDONOV",
+    link: null,
+    categories: ["Transportation"],
+  },
+  {
+    name: "Bird",
+    description: "Rent electric scooters",
+    code: "YT4ZOL",
+    link: 'https://gift.bird.co/links/7xPJuhQAJsGy9nRD6',
+    categories: ["Transportation"],
+  },
+  {
+    name: "Scoot",
+    description: "Rent electric scooters",
+    code: "JG9XFL",
+    link: 'https://gift.scoot.com/links/2ZsE4BoUnT44YrY39',
+    categories: ["Transportation"],
+  },
   {
     name: "Blackbird",
     description:
       "Blackbird gives you the private flight experience at a budget airline price",
     code: "AI0AQ",
-    link: null,
+    link: 'https://www.flyblackbird.com/',
     categories: ["Transportation"],
   },
   {
@@ -12,15 +86,16 @@ export const promoCodes = [
     description:
       "Uber Technologies Inc. is a global taxi technology company, operating in 633 cities worldwide",
     code: "uber15us",
-    link: null,
+    link: 'https://www.uber.com/invite/uber15us',
     categories: ["Transportation"],
   },
+  // Housing
   {
     name: "HotelTonight",
     description:
       "Amazing last-minute deals at top-rated hotels. Book Tonight, Tomorrow or 7 Days Out",
     code: "FSPIRIDONOV",
-    link: null,
+    link: 'https://txt.htltn.com/emUOyYE4w5',
     categories: ["Housing"],
   },
   {
@@ -31,6 +106,7 @@ export const promoCodes = [
     link: "https://www.airbnb.com/c/fspiridonov",
     categories: ["Housing"],
   },
+  // Finance
   {
     name: "Robinhood",
     description:
@@ -40,12 +116,41 @@ export const promoCodes = [
     categories: ["Finance"],
   },
   {
-    name: "Booking",
-    description: "Booking.com is a travel search engine for lodging reservations",
-    code: "",
-    link: "https://www.booking.com/s/27_8/c065ec84",
-    categories: ["Housing"],
+    name: "Webull",
+    description: "Webull offers commission-free online stock trading",
+    code: null,
+    link: "https://act.webull.com/i/qcSfuIF1JqAI/8mw/",
+    categories: ["Finance"],
   },
+  {
+    name: "Coinbase",
+    description: "Coinbase is a place to buy and sell cryptocurrency",
+    code: null,
+    link: "http://coinbase.com/join/spirid_9f",
+    categories: ["Finance"],
+  },
+  {
+    name: "Coinbase Earn",
+    description: "Earn crypto while learning about crypto",
+    code: null,
+    link: "https://coinbase.com/earn/xlm/invite/vd3bw81c",
+    categories: ["Finance"],
+  },
+  {
+    name: "Chase Checking",
+    description: "Open a Chase Checking accont and get a bonus",
+    code: null,
+    link: "https://accounts.chase.com/raf/share/2541951287",
+    categories: ["Finance"],
+  },
+  {
+    name: "Chase United Card",
+    description: "Open a Chase United Credit and get a bonus",
+    code: null,
+    link: "https://www.referyourchasecard.com/217a/E4SGVRDAS2",
+    categories: ["Finance"],
+  },
+  // Social
   {
     name: "Blind",
     description: "Blind is an anonymous chat app for tech employees",
@@ -53,43 +158,7 @@ export const promoCodes = [
     link: "https://us.teamblind.com/invite/nXNnHm7f",
     categories: ["Social"],
   },
-  {
-    name: "Getaround",
-    description:
-      "Getaround is an online car sharing or peer-to-peer carsharing service",
-    code: "",
-    link: "https://www.getaround.com/invite/10210287264472979",
-    categories: ["Transportation"],
-  },
-  {
-    name: "Turo",
-    description:
-      "Turo is a company that operates a peer-to-peer carsharing marketplace",
-    code: "filips19",
-    link: "https://turo.com/c/filips19",
-    categories: ["Transportation"],
-  },
-  {
-    name: "Scoot",
-    description: "San Francisco scooter rental",
-    code: "filips3",
-    link: "https://turo.com/c/filips19",
-    categories: ["Transportation"],
-  },
-  {
-    name: "Instacart",
-    description: "Instacart is a sometimes-same-day grocery delivery service",
-    code: "FSPIRIDONOV1C6",
-    link: "https://inst.cr/t/qEp5F7hKc",
-    categories: ["Grocery"],
-  },
-  {
-    name: "Webull",
-    description: "Webull offers commission-free online stock trading",
-    code: null,
-    link: "https://act.webull.com/i/qcSfuIF1JqAI/8mw/",
-    categories: ["Finance"],
-  },
+  // Recruiting
   {
     name: "Triplebyte",
     description: "Technical interviewing and recruiting",
@@ -104,18 +173,4 @@ export const promoCodes = [
     link: "https://iio.sh/r/GQBi",
     categories: ["Recruiting"],
   },
-  {
-    name: "Chase Checking",
-    description: "Open a Chase Checking accont and get a bonus",
-    code: null,
-    link: "https://accounts.chase.com/raf/invite?jp_aid_p=cpo_always_on_offers%2FTile1",
-    categories: ["Finance"],
-  },
-  {
-    name: "Chase United Card",
-    description: "Open a Chase United Credit and get a bonus",
-    code: null,
-    link: "https://www.referyourchasecard.com/217a/E4SGVRDAS2",
-    categories: ["Finance"],
-  }
 ];
