@@ -31,7 +31,7 @@ export const promoCodes = [
   {
     name: "Instacart",
     description: "Instacart is a sometimes-same-day grocery delivery service",
-    code: "FSPIRIDONOV1C6",
+    code: "FSPIRIDONOV1B4",
     link: "https://inst.cr/t/qEp5F7hKc",
     categories: ["Food"],
   },
