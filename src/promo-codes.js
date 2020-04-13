@@ -42,6 +42,13 @@ export const promoCodes = [
     link: "https://www.territoryfoods.com/yum/NAMEFILIP",
     categories: ["Food"],
   },
+  {
+    name: "Saucey",
+    description: "Alcohol Delivery | Beer, Wine & Liquor",
+    code: null,
+    link: "https://get.saucey.com/glHEq6rcC5",
+    categories: ["Food"],
+  },
   // Finance
   {
     name: "Robinhood",
