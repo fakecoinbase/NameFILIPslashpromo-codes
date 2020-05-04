@@ -93,6 +93,13 @@ export const promoCodes = [
     link: "https://www.referyourchasecard.com/217a/E4SGVRDAS2",
     categories: ["Finance"],
   },
+  {
+    name: "Wealthfront",
+    description: "Wealthfront helps to manage your savings and automate your investments",
+    code: null,
+    link: "https://www.wealthfront.com/c/affiliates/invited/AFFB-KXDL-90EH-5TC3",
+    categories: ["Finance"],
+  },
   // Transportation
   {
     name: "Getaround",
