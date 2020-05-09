@@ -37,10 +37,24 @@ export const promoCodes = [
     categories: ["Finance"],
   },
   {
-    name: "Coinbase Earn",
+    name: "Coinbase Earn XML",
     description: "Earn crypto while learning about crypto",
     code: null,
     link: "https://coinbase.com/earn/xlm/invite/vd3bw81c",
+    categories: ["Finance"],
+  },
+  {
+    name: "Coinbase Earn OXT",
+    description: "Earn crypto while learning about crypto",
+    code: null,
+    link: "https://coinbase.com/earn/oxt/invite/v1sw5tm6",
+    categories: ["Finance"],
+  },
+  {
+    name: "Coinbase Earn EOS",
+    description: "Earn crypto while learning about crypto",
+    code: null,
+    link: "https://coinbase.com/earn/eos/invite/y3vt06bh",
     categories: ["Finance"],
   },
   {
