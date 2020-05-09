@@ -194,4 +194,13 @@ export const promoCodes = [
     link: "https://iio.sh/r/GQBi",
     categories: ["Recruiting"],
   },
+  // Software
+  {
+    name: 'Dropbox',
+    description: "Dropbox offers cloud storage, file synchronization, personal cloud, and client software",
+    code: null,
+    link: "https://db.tt/SXln5Cpg",
+    categories: ["Software"],
+
+  }
 ];
