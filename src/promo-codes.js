@@ -1,4 +1,69 @@
 export const promoCodes = [
+  // Finance
+  {
+    name: "Robinhood",
+    description:
+      "Robinhood lets you learn to invest in the stock market for free",
+    code: "filips2",
+    link: "http://share.robinhood.com/filips2",
+    categories: ["Finance"],
+  },
+  {
+    name: "Webull",
+    description: "Webull offers commission-free online stock trading",
+    code: null,
+    link: "https://act.webull.com/i/qcSfuIF1JqAI/8mw/",
+    categories: ["Finance"],
+  },
+  {
+    name: "Nvstr",
+    description: "Smart investing platform",
+    code: null,
+    link: "https://www.nvstr.com/share/c2c8ce1d7",
+    categories: ["Finance"],
+  },
+  {
+    name: "SoFi",
+    description: "Buy and sell stocks with zero fees",
+    code: null,
+    link: "https://www.sofi.com/share/invest/2922148",
+    categories: ["Finance"],
+  },
+  {
+    name: "Coinbase",
+    description: "Coinbase is a place to buy and sell cryptocurrency",
+    code: null,
+    link: "http://coinbase.com/join/spirid_9f",
+    categories: ["Finance"],
+  },
+  {
+    name: "Coinbase Earn",
+    description: "Earn crypto while learning about crypto",
+    code: null,
+    link: "https://coinbase.com/earn/xlm/invite/vd3bw81c",
+    categories: ["Finance"],
+  },
+  {
+    name: "Chase Checking",
+    description: "Open a Chase Checking accont and get a bonus",
+    code: null,
+    link: "https://accounts.chase.com/raf/share/2541951287",
+    categories: ["Finance"],
+  },
+  {
+    name: "Chase United Card",
+    description: "Open a Chase United Credit and get a bonus",
+    code: null,
+    link: "https://www.referyourchasecard.com/217a/E4SGVRDAS2",
+    categories: ["Finance"],
+  },
+  {
+    name: "Wealthfront",
+    description: "Wealthfront helps to manage your savings and automate your investments",
+    code: null,
+    link: "https://www.wealthfront.com/c/affiliates/invited/AFFB-KXDL-90EH-5TC3",
+    categories: ["Finance"],
+  },
   // Food
   {
     name: 'Uber Eats',
@@ -48,57 +113,6 @@ export const promoCodes = [
     code: null,
     link: "https://get.saucey.com/glHEq6rcC5",
     categories: ["Food"],
-  },
-  // Finance
-  {
-    name: "Robinhood",
-    description:
-      "Robinhood lets you learn to invest in the stock market for free",
-    code: "filips2",
-    link: "http://share.robinhood.com/filips2",
-    categories: ["Finance"],
-  },
-  {
-    name: "Webull",
-    description: "Webull offers commission-free online stock trading",
-    code: null,
-    link: "https://act.webull.com/i/qcSfuIF1JqAI/8mw/",
-    categories: ["Finance"],
-  },
-  {
-    name: "Coinbase",
-    description: "Coinbase is a place to buy and sell cryptocurrency",
-    code: null,
-    link: "http://coinbase.com/join/spirid_9f",
-    categories: ["Finance"],
-  },
-  {
-    name: "Coinbase Earn",
-    description: "Earn crypto while learning about crypto",
-    code: null,
-    link: "https://coinbase.com/earn/xlm/invite/vd3bw81c",
-    categories: ["Finance"],
-  },
-  {
-    name: "Chase Checking",
-    description: "Open a Chase Checking accont and get a bonus",
-    code: null,
-    link: "https://accounts.chase.com/raf/share/2541951287",
-    categories: ["Finance"],
-  },
-  {
-    name: "Chase United Card",
-    description: "Open a Chase United Credit and get a bonus",
-    code: null,
-    link: "https://www.referyourchasecard.com/217a/E4SGVRDAS2",
-    categories: ["Finance"],
-  },
-  {
-    name: "Wealthfront",
-    description: "Wealthfront helps to manage your savings and automate your investments",
-    code: null,
-    link: "https://www.wealthfront.com/c/affiliates/invited/AFFB-KXDL-90EH-5TC3",
-    categories: ["Finance"],
   },
   // Transportation
   {
