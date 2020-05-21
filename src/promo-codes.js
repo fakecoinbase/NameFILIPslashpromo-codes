@@ -58,6 +58,13 @@ export const promoCodes = [
     categories: ["Finance"],
   },
   {
+    name: "Rakuten",
+    description: "Shop. Earn. Get Cash Back",
+    code: null,
+    link: "https://www.rakuten.com/r/FILIPS62?eeid=28187",
+    categories: ["Finance"],
+  },
+  {
     name: "Chase Checking",
     description: "Open a Chase Checking accont and get a bonus",
     code: null,
