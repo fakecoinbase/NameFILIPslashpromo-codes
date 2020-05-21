@@ -16,6 +16,13 @@ export const promoCodes = [
     categories: ["Finance"],
   },
   {
+    name: "TradeUP",
+    description: "Invest in stock",
+    code: null,
+    link: "https://tradeup.marsco.com/activity/market/us-open-price/#/share?invite=37WFTN",
+    categories: ["Finance"],
+  },
+  {
     name: "Nvstr",
     description: "Smart investing platform",
     code: null,
